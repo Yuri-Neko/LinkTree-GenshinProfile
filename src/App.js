@@ -41,13 +41,7 @@ function App() {
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://fb.com/fajar.clyy" className="social">
-              <FaFacebookSquare />
-              Facebook
-            </a>
-          </div>
-          <div className="mt-16">
-            <a href="https://tiktok.com/@fajar.cly" className="social">
+            <a href="https://tiktok.com/@hiro_063" className="social">
               <FaTiktok />
               TikTok
             </a>
@@ -59,7 +53,7 @@ function App() {
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://github.com/FajarCly" className="social">
+            <a href="https://github.com/Yuri-Neko" className="social">
               <BsGithub />
               Github
             </a>
