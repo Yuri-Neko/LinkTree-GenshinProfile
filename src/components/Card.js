@@ -13,7 +13,7 @@ function Card() {
 
   useEffect(() => {
     axios
-      .get("https://encly-api-production.up.railway.app/api/profile/857067560")
+      .get("https://encly-api-production.up.railway.app/api/profile/854888633")
       .then((response) => {
         setCharacters(response.data.charactersPreview);
       })
