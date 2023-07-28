@@ -27,7 +27,7 @@ function Card() {
     setSelectedButtonIndex(index);
     axios
       .get(
-        "https://encly-api-production.up.railway.app/api/card/857067560/" +
+        "https://encly-api-production.up.railway.app/api/card/854888633/" +
           charaNumber
       )
       .then((response) => {
