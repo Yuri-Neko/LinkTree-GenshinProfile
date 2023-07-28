@@ -24,7 +24,7 @@ function App() {
               <span className="typewriter">
                 <Typewriter
                   options={{
-                    strings: ["Random Guy", "Gamers", "Ordinary People"],
+                    strings: ["Anime Lovers", "Gamers", "Ordinary People"],
                     autoStart: true,
                     loop: true,
                   }}
@@ -35,7 +35,7 @@ function App() {
           <Profile />
           <Card />
           <div className="mt-16">
-            <a href="https://instagram.com/fajar.cly" className="social">
+            <a href="https://instagram.com/admin_kyouka" className="social">
               <BsInstagram />
               Instagram
             </a>
@@ -47,7 +47,7 @@ function App() {
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://twitter.com/siFajar277" className="social">
+            <a href="https://tweeter.com/" className="social">
               <BsTwitter />
               Twitter
             </a>
