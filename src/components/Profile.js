@@ -10,7 +10,7 @@ function Profile() {
 
   useEffect(() => {
     axios
-      .get("https://encly-api-production.up.railway.app/api/profile/857067560")
+      .get("https://encly-api-production.up.railway.app/api/profile/854888633")
       .then((response) => {
         setData(response.data);
         setIcon(response.data.profilePicture.icon);
